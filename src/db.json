@@ -1,0 +1,22 @@
+{
+  "payroll": [
+    {
+      "id": 1,
+      "status": "Pending",
+      "date": "04 Step 2020",
+      "client": "AVB",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "gui-id"
+    },
+    {
+      "id": 2,
+      "status": "Pending",
+      "date": "04 Step 2020",
+      "client": "AVB",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "gui-id"
+    }
+  ]
+}

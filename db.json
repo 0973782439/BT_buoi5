@@ -1,0 +1,48 @@
+{
+  "payroll": [
+    {
+      "id": 1,
+      "status": "Pending",
+      "idStatus": 1,
+      "idClient": 1,
+      "date": "2023-04-13",
+      "client": "AVB",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "levantu01hy-"
+    },
+    {
+      "id": 2,
+      "status": "Received",
+      "idStatus": 2,
+      "idClient": 2,
+      "date": "2023-04-13",
+      "client": "Powergate",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "gui-id"
+    },
+    {
+      "id": 3,
+      "status": "Processing",
+      "idStatus": 3,
+      "idClient": 3,
+      "date": "2023-04-13",
+      "client": "Adidas",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "gui-id"
+    },
+    {
+      "id": 4,
+      "status": "Pending",
+      "idStatus": 1,
+      "idClient": 2,
+      "date": "2023-04-13",
+      "client": "Powergate",
+      "total": "2,300.00",
+      "currency": "USD",
+      "invoice": "gui-id"
+    }
+  ]
+}
